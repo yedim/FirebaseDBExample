@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "105263932088",
+    "firebase_url": "https://and2516-e3eff.firebaseio.com",
+    "project_id": "and2516-e3eff",
+    "storage_bucket": "and2516-e3eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105263932088:android:ce0a66f3ae1a548c",
+        "android_client_info": {
+          "package_name": "com.gmail.yelimi0416.firebasedbexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105263932088-3ij8kksmbvob12oapr252i264gg569u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5JruGVxE03FxkugC6_UBc0UOiorExFMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
